@@ -12,11 +12,11 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-API_ID = 123456  # আপনার API_ID দিন
-API_HASH = "API_HASH_HERE"  # আপনার API_HASH দিন
-BOT_TOKEN = "123:ABCDEF"  # আপনার BOT_TOKEN দিন
-VOUCHER_CHANNEL = "@yourchannel"  # আপনার চ্যানেল আইডি দিন
-OWNER_ID = None  # আপনার টেলিগ্রাম আইডি
+API_ID = 30825460
+API_HASH = acc76656f29084c62f10cfddc44a15bb
+BOT_TOKEN = 8182617462:AAGXq4vaXFcO2ch8P-yWvwrVV_Lc1YCLV8w
+VOUCHER_CHANNEL = @WinzerEscrowBotVoucher
+OWNER_ID = None  @WINZER_OWNER
 
 DB = "escrow.db"
 
